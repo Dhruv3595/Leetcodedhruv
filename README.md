@@ -9,4 +9,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1278-product-price-at-a-given-date](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1942-primary-department-for-each-employee](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/1942-primary-department-for-each-employee) |
+| [2057-count-salary-categories](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/2057-count-salary-categories) |
 <!---LeetCode Topics End-->
