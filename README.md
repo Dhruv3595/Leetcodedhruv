@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1942-primary-department-for-each-employee](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/1942-primary-department-for-each-employee) |
 | [2057-count-salary-categories](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/2127-employees-whose-manager-left-the-company) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
