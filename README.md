@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0069-sqrtx) |
 ## Simulation
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0217-contains-duplicate) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
