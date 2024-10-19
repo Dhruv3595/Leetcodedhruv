@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0118-pascals-triangle) |
+| [0217-contains-duplicate](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0283-move-zeroes) |
 | [2698-find-the-array-concatenation-value](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/2698-find-the-array-concatenation-value) |
 ## Math
@@ -56,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0118-pascals-triangle) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
