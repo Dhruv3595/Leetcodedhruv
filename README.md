@@ -57,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0283-move-zeroes) |
 | [2698-find-the-array-concatenation-value](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/2698-find-the-array-concatenation-value) |
+| [2716-prime-subtraction-operation](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/2716-prime-subtraction-operation) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0069-sqrtx) |
+| [2716-prime-subtraction-operation](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/2716-prime-subtraction-operation) |
 ## Simulation
 |  |
 | ------- |
@@ -82,4 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0069-sqrtx) |
+| [2716-prime-subtraction-operation](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/2716-prime-subtraction-operation) |
+## Greedy
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/2716-prime-subtraction-operation) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
