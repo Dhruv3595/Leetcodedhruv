@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0283-move-zeroes) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2698-find-the-array-concatenation-value](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/2698-find-the-array-concatenation-value) |
 | [2716-prime-subtraction-operation](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/2716-prime-subtraction-operation) |
 ## Math
