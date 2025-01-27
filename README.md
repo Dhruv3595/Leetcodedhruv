@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0541-reverse-string-ii) |
+| [1894-merge-strings-alternately](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/1894-merge-strings-alternately) |
 | [2698-find-the-array-concatenation-value](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/2698-find-the-array-concatenation-value) |
 ## String
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/0541-reverse-string-ii) |
+| [1894-merge-strings-alternately](https://github.com/Dhruv3595/Leetcodedhruv/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
